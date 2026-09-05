@@ -1,4 +1,4 @@
-const API = window.BACKEND_API || "https://YOUR-RENDER-SERVICE.onrender.com";
+const API = window.BACKEND_API || "https://long-text-question-search.onrender.com";
 const $ = (id) => document.getElementById(id);
 const query = $("query");
 const results = $("results");
