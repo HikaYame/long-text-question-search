@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: long-text-question-search-api
+    runtime: docker
+    dockerfilePath: ./Dockerfile
+    healthCheckPath: /api/v1/health
+    autoDeploy: true

@@ -1,0 +1,128 @@
+[
+  {
+    "id": "physics-01",
+    "site_name": "VietJack",
+    "title": "Thanh dẫn chuyển động trong từ trường",
+    "url": "https://vietjack.com/vat-ly-12/thanh-dan-chuyen-dong-trong-tu-truong.jsp",
+    "text": "Một thanh dẫn dài 20 cm chuyển động với vận tốc 3 m/s trong từ trường đều có cảm ứng từ 0,5 T. Thanh chuyển động vuông góc với đường sức từ. Tính suất điện động cảm ứng xuất hiện giữa hai đầu thanh."
+  },
+  {
+    "id": "physics-02",
+    "site_name": "VietJack",
+    "title": "Khí lí tưởng và phương trình trạng thái",
+    "url": "https://vietjack.com/vat-ly-12/khi-li-tuong.jsp",
+    "text": "Một lượng khí helium có thể tích 1 200 lít ở nhiệt độ 27 °C và áp suất 1,013.105 Pa. Xác định trạng thái khí và áp dụng phương trình trạng thái khí lí tưởng."
+  },
+  {
+    "id": "physics-03",
+    "site_name": "Studocu",
+    "title": "Bóng thám không và khí lí tưởng",
+    "url": "https://www.studocu.com/vn/document/bai-tap-bong-tham-khong",
+    "text": "Một bóng thám không chứa khí helium có thể tích 1 200 lít ở mặt đất, nhiệt độ 27 °C và áp suất 101325 Pa. Bóng bay lên cao, nhiệt độ và áp suất thay đổi. Tính thể tích của bóng theo phương trình khí lí tưởng."
+  },
+  {
+    "id": "physics-04",
+    "site_name": "Scribd",
+    "title": "Bài tập áp suất chất khí",
+    "url": "https://www.scribd.com/document/bai-tap-ap-suat-khi",
+    "text": "Một bình kín chứa khí ở áp suất 2 atm và nhiệt độ 27 °C. Khi nhiệt độ tăng lên 127 °C, thể tích không đổi. Tính áp suất mới của khí."
+  },
+  {
+    "id": "physics-05",
+    "site_name": "VietJack",
+    "title": "Định luật Boyle cho khí lí tưởng",
+    "url": "https://vietjack.com/vat-ly-12/dinh-luat-boyle.jsp",
+    "text": "Một lượng khí xác định ở nhiệt độ không đổi có thể tích 5 L và áp suất 1,2 atm. Nén khí còn 3 L. Tính áp suất cuối cùng."
+  },
+  {
+    "id": "physics-06",
+    "site_name": "Studocu",
+    "title": "Định luật Charles",
+    "url": "https://www.studocu.com/vn/document/dinh-luat-charles",
+    "text": "Một lượng khí có thể tích 4 L ở 27 °C. Giữ áp suất không đổi, tăng nhiệt độ lên 127 °C. Tính thể tích khí."
+  },
+  {
+    "id": "physics-07",
+    "site_name": "Scribd",
+    "title": "Công thức suất điện động cảm ứng",
+    "url": "https://www.scribd.com/document/suat-dien-dong-cam-ung",
+    "text": "Một khung dây có diện tích 200 cm2 gồm 20 vòng đặt trong từ trường đều. Cảm ứng từ thay đổi theo thời gian. Tính suất điện động cảm ứng theo định luật Faraday."
+  },
+  {
+    "id": "physics-08",
+    "site_name": "VietJack",
+    "title": "Lực từ tác dụng lên dây dẫn",
+    "url": "https://vietjack.com/vat-ly-12/luc-tu-day-dan.jsp",
+    "text": "Một đoạn dây dẫn dài 10 cm có dòng điện 2 A đặt vuông góc với từ trường đều có cảm ứng từ 0,4 T. Tính lực từ tác dụng lên đoạn dây."
+  },
+  {
+    "id": "physics-09",
+    "site_name": "Studocu",
+    "title": "Mômen lực của khung dây",
+    "url": "https://www.studocu.com/vn/document/momen-luc-khung-day",
+    "text": "Khung dây hình chữ nhật gồm 20 vòng, dòng điện 1 A, đặt trong từ trường đều 0,5 T. Tính mômen lực từ tác dụng lên khung khi góc giữa vectơ cảm ứng từ và pháp tuyến khung là 60 độ."
+  },
+  {
+    "id": "physics-10",
+    "site_name": "Scribd",
+    "title": "Nhiệt lượng và công của khí",
+    "url": "https://www.scribd.com/document/cong-nhiet-luong-khi",
+    "text": "Một lượng khí nhận nhiệt lượng 500 J và thực hiện công 200 J lên môi trường. Xác định độ biến thiên nội năng của khí."
+  },
+  {
+    "id": "chem-01",
+    "site_name": "VietJack",
+    "title": "Glucose và phản ứng tráng bạc",
+    "url": "https://vietjack.com/hoa-hoc-12/glucose-trang-bac.jsp",
+    "text": "Glucose phản ứng với thuốc thử Tollens tạo bạc kim loại. Viết phương trình phản ứng và tính khối lượng bạc thu được khi có 0,1 mol glucose."
+  },
+  {
+    "id": "chem-02",
+    "site_name": "Studocu",
+    "title": "Fructose trong môi trường kiềm",
+    "url": "https://www.studocu.com/vn/document/fructose-moi-truong-kiem",
+    "text": "Fructose trong môi trường kiềm có thể chuyển hóa qua lại với glucose. Phân tích hiện tượng và sản phẩm liên quan."
+  },
+  {
+    "id": "chem-03",
+    "site_name": "Scribd",
+    "title": "Este và phản ứng thủy phân",
+    "url": "https://www.scribd.com/document/bai-tap-este",
+    "text": "Một este đơn chức có khối lượng 8,8 g phản ứng vừa đủ với dung dịch NaOH. Xác định công thức và lượng muối tạo thành."
+  },
+  {
+    "id": "chem-04",
+    "site_name": "VietJack",
+    "title": "Amin và phản ứng với axit",
+    "url": "https://vietjack.com/hoa-hoc-12/amin-phan-ung-voi-axit.jsp",
+    "text": "Cho methylamine phản ứng với dung dịch hydrochloric acid. Xác định muối tạo thành và khối lượng muối từ 0,2 mol amin."
+  },
+  {
+    "id": "chem-05",
+    "site_name": "Studocu",
+    "title": "Amino acid và tính chất lưỡng tính",
+    "url": "https://www.studocu.com/vn/document/amino-acid-luong-tinh",
+    "text": "Glycine phản ứng với HCl và NaOH. Viết các phương trình phản ứng thể hiện tính lưỡng tính của amino acid."
+  },
+  {
+    "id": "chem-06",
+    "site_name": "Scribd",
+    "title": "Polymer và phản ứng trùng hợp",
+    "url": "https://www.scribd.com/document/polymer-trung-hop",
+    "text": "Từ ethene điều chế polyethylene bằng phản ứng trùng hợp. Tính khối lượng polymer thu được từ một lượng monomer cho trước."
+  },
+  {
+    "id": "chem-07",
+    "site_name": "VietJack",
+    "title": "Kim loại tác dụng với dung dịch muối",
+    "url": "https://vietjack.com/hoa-hoc-12/kim-loai-dung-dich-muoi.jsp",
+    "text": "Cho một kim loại tác dụng với dung dịch muối của kim loại yếu hơn. Dựa vào dãy điện hóa để xác định phản ứng xảy ra và khối lượng chất tạo thành."
+  },
+  {
+    "id": "chem-08",
+    "site_name": "Studocu",
+    "title": "Điện phân dung dịch",
+    "url": "https://www.studocu.com/vn/document/dien-phan-dung-dich",
+    "text": "Điện phân dung dịch chứa ion kim loại với điện cực trơ. Xác định sản phẩm ở cathode, anode và lượng chất theo định luật Faraday."
+  }
+]

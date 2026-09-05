@@ -1,0 +1,6 @@
+:root { color-scheme: dark; }
+body { font-family: Inter, ui-sans-serif, system-ui, sans-serif; }
+textarea { scrollbar-width: thin; }
+mark { background: rgba(250,204,21,.25); color: #fde68a; border-radius: .25rem; padding: 0 .15rem; }
+.card { animation: rise .22s ease-out both; }
+@keyframes rise { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: translateY(0); } }
